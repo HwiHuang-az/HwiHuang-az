@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://tenor.com/view/3uihofhoihew-gif-25227481)" width="220"/>
+<img src="https://tenor.com/view/3uihofhoihew-gif-25227481" width="220"/>
 
 
 
