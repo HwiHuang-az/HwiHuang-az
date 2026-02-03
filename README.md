@@ -6,8 +6,4 @@
 ### 😼 Hi, I'm Huy Hoàng  
 Frontend / Full-stack Developer  
 
-🌙 *anime • code • chill* 🌙
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140"/>
-
 </div>
